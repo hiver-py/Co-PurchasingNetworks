@@ -1,5 +1,5 @@
-# Graph analysis of co-purchasing networks 
-## Using PySpark and the GraphFrames library
+# Graph analysis of co-purchasing networks Using PySpark and the GraphFrames library
+
 
 Graph analysis entails the analysis of networks of personas, products, etc. with exciting applications in social networks and product recommendations. Companies such as Amazon use graph analysis to recommend commonly co-purchased products, thus improving the user and shopping experience.
 
