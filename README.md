@@ -12,3 +12,5 @@ The Amazon product co-purchasing networks data set collected in March 2003 will 
 
 
 ## Results
+
+![Alt text](/assets/n_nodes_vs_degree.png")
