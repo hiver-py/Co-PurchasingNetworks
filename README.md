@@ -12,5 +12,5 @@ The Amazon product co-purchasing networks data set collected in March 2003 will 
 
 
 ## Results
-![Alt Text](https://raw.github.com/hiver-py/{Co-PurchasingNetworks}/assets/n_nodes_vs_degree.png)
+![Alt Text](https://github.com/hiver-py/Co-PurchasingNetworks/blob/main/assets/n_nodes_vs_degree.png)
 
