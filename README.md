@@ -19,11 +19,11 @@ The Amazon product co-purchasing networks data set collected in March 2003 will 
 \caption{In degree ratio}
 \begin{tabular}{|l|l|r|}
 \hline
-\multicolumn{1}{|c|}{\textbf{Node}} & \textbf{Product Name} &\multicolumn{1}{c|}{\textbf{In Degree Ratio}} \\ \hline
-14949                           &  Fodor's Australia 2000  & 84.0                                          \\ \hline
-4429            &  Harley-Davidson Panheads, 1948-1965/M418  & 80.8                                          \\ \hline
-33                              & Double Jeopardy   & 72.2                                          \\ \hline
-10519                           & NOVA: Killer Quake!  & 66.8                                          \\ \hline
-12771                           &  Jorge Negrete  & 66.0                                          \\ \hline
-\end{tabular}
-\end{table} 
+| Node | Product Name | In Degree Ratio |
+| --- | ---| --- |
+| 14949 | Fodor's Australia 2000 | 84.0 |
+| 4429 | Harley-Davidson Panheads, 1948-1965/M418  | 80.8  |
+| 33   | Double Jeopardy   | 72.2 |    
+| 10519    | NOVA: Killer Quake!  | 66.8   |       
+| 12771    |  Jorge Negrete  | 66.0   |      
+
