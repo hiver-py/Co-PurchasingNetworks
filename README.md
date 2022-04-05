@@ -14,16 +14,31 @@ The Amazon product co-purchasing networks data set collected in March 2003 will 
 ## Results
 ![Alt Text](https://github.com/hiver-py/Co-PurchasingNetworks/blob/main/assets/graph_viz_n_200.png)
 
-\begin{table}[H]
-\centering
-\caption{In degree ratio}
-\begin{tabular}{|l|l|r|}
-\hline
+To explore which products are co-purchased, we calculate the ratio between the in degrees and out degrees.
+If the ratio is high this means that the product is often a product that does not start the purchase, but
+often something bought at the end of a purchasing session: 
+
 | Node | Product Name | In Degree Ratio |
-| --- | ---| --- |
+| --- | ---| ---: |
 | 14949 | Fodor's Australia 2000 | 84.0 |
 | 4429 | Harley-Davidson Panheads, 1948-1965/M418  | 80.8  |
 | 33   | Double Jeopardy   | 72.2 |    
 | 10519    | NOVA: Killer Quake!  | 66.8   |       
 | 12771    |  Jorge Negrete  | 66.0   |      
+
+
+
+To find mutually co-purchased products GraphFrames Motif is used. In the table below 5 co-purchased
+products is showed where people who buy Product A and people who buy Product B have the Mutual
+product in common:
+
+
+Product Name A | Product Name Mutual | Product Name B|  
+| --- | ---| --- |
+|Trouble with Girls   | Starting With "I"  | The Diabetic's Brand Name Food Exchange Handbook| 
+| GIRLS TO THE RESCUE BOOK | The Hidden Encyclical of Pius XI  | Pagan Kids' Activity Book |
+| How to Draw Dogs   | The Existence And Attributes Of God | Cape May for All Seasons   |
+| Macromedia Flash MX for Windows and Macintosh | All the Rage | Comigo - Serie Ao Vivo |                                                                     
+| Live Psalms   | Red Smith on Baseball | An Atlas of Obesity and Weight Control |
+
 
