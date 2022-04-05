@@ -12,5 +12,18 @@ The Amazon product co-purchasing networks data set collected in March 2003 will 
 
 
 ## Results
-![Alt Text](https://github.com/hiver-py/Co-PurchasingNetworks/blob/main/assets/n_nodes_vs_degree.png)
+![Alt Text](https://github.com/hiver-py/Co-PurchasingNetworks/blob/main/assets/graph_viz_n_200.png)
 
+\begin{table}[H]
+\centering
+\caption{In degree ratio}
+\begin{tabular}{|l|l|r|}
+\hline
+\multicolumn{1}{|c|}{\textbf{Node}} & \textbf{Product Name} &\multicolumn{1}{c|}{\textbf{In Degree Ratio}} \\ \hline
+14949                           &  Fodor's Australia 2000  & 84.0                                          \\ \hline
+4429            &  Harley-Davidson Panheads, 1948-1965/M418  & 80.8                                          \\ \hline
+33                              & Double Jeopardy   & 72.2                                          \\ \hline
+10519                           & NOVA: Killer Quake!  & 66.8                                          \\ \hline
+12771                           &  Jorge Negrete  & 66.0                                          \\ \hline
+\end{tabular}
+\end{table} 
